@@ -7,7 +7,7 @@ The MusicAPI, DuckDuckGo API, Deezer API, and Soundcloud Downloader API are all 
 
 An SQL database is implemented for storing user info.
 
-#Testing
+**Testing**  
 Testing is handled with Mocha and Chai, to run the tests the following can be copied into the package.json file:
 ```
 {
@@ -41,10 +41,10 @@ Testing is handled with Mocha and Chai, to run the tests the following can be co
 ```
 Then, change the command in the bottom of the docker compose file to 'npm run testandrun'.
 
-#Credits
-Alex Burch
-Silas Khan
-Eric Gosnell
-Patrick Fleming
-Tyler Chung
-Cade Williams
+**Credits**  
+Alex Burch  
+Silas Khan  
+Eric Gosnell  
+Patrick Fleming  
+Tyler Chung  
+Cade Williams  
